@@ -1,0 +1,14 @@
+author = 'Oxalin'
+country_code = 'GB'
+description = "The lines in the Salisbury area, from Chandler's Ford and Romsey to Warminster"
+display_name = 'Romsey & Salisbury'
+doc_files = [ 'Romsey & Salisbury.md' ]
+factual = true
+img_files = [ 'Romsey_&_Salisbury.bmp' ]
+name = 'Romsey & Salisbury'
+release_date = '2022-04-15'
+year = 2022
+signal_position = "left"
+rly_file = 'Romsey & Salisbury.rly'
+ttb_files = [ 'Romsey & Salisbury 20-04-22.ttb' ]
+version = '1.0.0'
